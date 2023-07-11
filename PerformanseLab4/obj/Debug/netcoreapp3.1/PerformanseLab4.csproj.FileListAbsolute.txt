@@ -1,0 +1,13 @@
+C:\Users\Korisnik\source\repos\PerformanseLab4\PerformanseLab4\bin\Debug\netcoreapp3.1\PerformanseLab4.exe
+C:\Users\Korisnik\source\repos\PerformanseLab4\PerformanseLab4\bin\Debug\netcoreapp3.1\PerformanseLab4.deps.json
+C:\Users\Korisnik\source\repos\PerformanseLab4\PerformanseLab4\bin\Debug\netcoreapp3.1\PerformanseLab4.runtimeconfig.json
+C:\Users\Korisnik\source\repos\PerformanseLab4\PerformanseLab4\bin\Debug\netcoreapp3.1\PerformanseLab4.runtimeconfig.dev.json
+C:\Users\Korisnik\source\repos\PerformanseLab4\PerformanseLab4\bin\Debug\netcoreapp3.1\PerformanseLab4.dll
+C:\Users\Korisnik\source\repos\PerformanseLab4\PerformanseLab4\bin\Debug\netcoreapp3.1\PerformanseLab4.pdb
+C:\Users\Korisnik\source\repos\PerformanseLab4\PerformanseLab4\obj\Debug\netcoreapp3.1\PerformanseLab4.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\PerformanseLab4\PerformanseLab4\obj\Debug\netcoreapp3.1\PerformanseLab4.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\PerformanseLab4\PerformanseLab4\obj\Debug\netcoreapp3.1\PerformanseLab4.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\PerformanseLab4\PerformanseLab4\obj\Debug\netcoreapp3.1\PerformanseLab4.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\PerformanseLab4\PerformanseLab4\obj\Debug\netcoreapp3.1\PerformanseLab4.dll
+C:\Users\Korisnik\source\repos\PerformanseLab4\PerformanseLab4\obj\Debug\netcoreapp3.1\PerformanseLab4.pdb
+C:\Users\Korisnik\source\repos\PerformanseLab4\PerformanseLab4\obj\Debug\netcoreapp3.1\PerformanseLab4.genruntimeconfig.cache
